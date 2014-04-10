@@ -1,0 +1,9 @@
+{
+  "name": "ua-fiddler",
+  "title": "ua-fiddler",
+  "id": "jid1-K52hnDwggZbchA",
+  "description": "Switch Firefox user-agent on the fly, for use with Selenium",
+  "author": "gabriel@gironda.org",
+  "license": "MIT",
+  "version": "0.1"
+}
